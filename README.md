@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">
-  Velocity
+  PrivateBrowse
 </h1>
 
 <p align="center">
-  A fully featured web browser built using web technologies.
+  A fully featured web browser for personal use.
 </p>
 
 ## About
 
-The initial inspiration for Velocity came from other proxies such as Hypertabs and Rammerhead Browser. After using these proxies issues arose that broke the illusion of using a web browser which velocity attempts to fix.
+The initial inspiration for PrivateBrowse came from other proxies such as Hypertabs and Titanium. After using these proxies issues arose that broke the illusion of using a web browser which PrivateBrowse attempts to fix.
 
 ## Features
 
@@ -30,7 +30,7 @@ The initial inspiration for Velocity came from other proxies such as Hypertabs a
 
 ## Commands
 
-Velocity implements many commands that web browsers commonly use in order to do certain functions. Due to the limitations of JavaScript many of these have to be adapted but listed below is all commands that have been implemented so far.
+PrivateBrowse implements many commands that web browsers commonly use in order to do certain functions. Due to the limitations of JavaScript many of these have to be adapted but listed below is all commands that have been implemented so far.
 
 - `Ctrl + R` - Reload current tab
 - `Ctrl + E` - Search
@@ -49,7 +49,7 @@ Velocity implements many commands that web browsers commonly use in order to do 
 
 ## API
 
-Velocity exposes basic APIs in order to allow developers to easily create customizations and implement it into their own projects. To learn more, check out the [API Docs](/docs/API.md).
+PrivateBrowse exposes basic APIs in order to allow developers to easily create customizations and implement it into their own projects. To learn more, check out the [API Docs](/docs/API.md).
 
 ## Deployment
 
@@ -67,7 +67,7 @@ npm start
 
 ## Roadmap
 
-Velocity is still in it's early stages but if it gains enough interest among the community there are quite a few other features that I would like to implement, listed below are a few of these.
+PrivateBrowse is still in it's early stages but if it gains enough interest among the community there are quite a few other features that I would like to implement, listed below are a few of these.
 
 - Bookmarklet support
 - Extension support
